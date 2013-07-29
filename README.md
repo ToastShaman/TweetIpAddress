@@ -12,4 +12,5 @@ See https://dev.twitter.com/docs/auth/tokens-devtwittercom
 Copy the init.d startup script into /etc/init.d, change the path's accordingly and execute the following commands:
 
 sudo chmod 755 /etc/init.d/tweet-ip-address
+
 sudo update-rc.d tweet-ip-address defaults
